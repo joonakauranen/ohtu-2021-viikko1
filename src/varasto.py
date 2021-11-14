@@ -23,6 +23,47 @@ class Varasto:
         return self.tilavuus - self.saldo
 
     def lisaa_varastoon(self, maara):
+
+        if True:
+            print("jee")
+            if True:
+                print("jee")
+                if True:
+                    print("jee")
+
+    
+        print("je444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444444e") 
+
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+        print("jee")
+
+
         if maara < 0:
             return
         if maara <= self.paljonko_mahtuu():
