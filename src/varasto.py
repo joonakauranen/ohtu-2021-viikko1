@@ -5,6 +5,8 @@ class Varasto:
 
         self.tilavuus = max(tilavuus,0)
 
+        print("fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff")
+
         if alku_saldo < 0.0:
             # virheellinen, nollataan
             self.saldo = 0.0
