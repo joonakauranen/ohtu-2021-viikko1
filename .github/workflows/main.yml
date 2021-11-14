@@ -26,7 +26,7 @@ jobs:
         run: pip install pylint
       - name: Run Pylint
         run: |
-          python lint.py
+          python lint.py --path ./src
 
       # Runs a set of commands using the runners shell
       - name: Run a multi-line script
